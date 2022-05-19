@@ -1,0 +1,15 @@
+C:\Code\Seminar4-3\Dz03\obj\Debug\net6.0\Dz03.csproj.AssemblyReference.cache
+C:\Code\Seminar4-3\Dz03\obj\Debug\net6.0\Dz03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Seminar4-3\Dz03\obj\Debug\net6.0\Dz03.AssemblyInfoInputs.cache
+C:\Code\Seminar4-3\Dz03\obj\Debug\net6.0\Dz03.AssemblyInfo.cs
+C:\Code\Seminar4-3\Dz03\obj\Debug\net6.0\Dz03.csproj.CoreCompileInputs.cache
+C:\Code\Seminar4-3\Dz03\bin\Debug\net6.0\Dz03.exe
+C:\Code\Seminar4-3\Dz03\bin\Debug\net6.0\Dz03.deps.json
+C:\Code\Seminar4-3\Dz03\bin\Debug\net6.0\Dz03.runtimeconfig.json
+C:\Code\Seminar4-3\Dz03\bin\Debug\net6.0\Dz03.dll
+C:\Code\Seminar4-3\Dz03\bin\Debug\net6.0\Dz03.pdb
+C:\Code\Seminar4-3\Dz03\obj\Debug\net6.0\Dz03.dll
+C:\Code\Seminar4-3\Dz03\obj\Debug\net6.0\refint\Dz03.dll
+C:\Code\Seminar4-3\Dz03\obj\Debug\net6.0\Dz03.pdb
+C:\Code\Seminar4-3\Dz03\obj\Debug\net6.0\Dz03.genruntimeconfig.cache
+C:\Code\Seminar4-3\Dz03\obj\Debug\net6.0\ref\Dz03.dll
